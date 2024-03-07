@@ -1,0 +1,19 @@
+{
+  "name": "smtpserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mailparser": "^3.6.9",
+    "smtp-server": "^3.13.3"
+  },
+  "devDependencies": {
+    "@types/mailparser": "^3.4.4",
+    "@types/smtp-server": "^3.5.10"
+  }
+}
