@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "mailparser": "^3.6.9",
+    "nodemailer": "^6.9.11",
     "smtp-server": "^3.13.3"
   },
   "devDependencies": {
